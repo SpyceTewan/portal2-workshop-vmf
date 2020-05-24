@@ -1,5 +1,5 @@
 # Tewan's Portal 2 Workshop map sources
-These are the original raw VMF files to my workshop maps. They are free to look at for everyone. 
+These are the original raw VMF files of my workshop maps. They are free to look at for everyone. 
 
 ### ❗❗ Do not redistribute my maps without permission ❗❗
 
@@ -15,4 +15,4 @@ These are the original raw VMF files to my workshop maps. They are free to look 
 
 Please note that you will be missing some assets and instances. The assets can be extracted from the BSP if needed. If you need one of the instances, just ask me.
 
-The VMFs for [Portal: Revolution](https://discord.gg/zrSVsM7) will probably also be published when released: 
+The VMFs for [Portal: Revolution](https://discord.gg/zrSVsM7) will probably also be published when the mod is released
