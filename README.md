@@ -12,6 +12,7 @@ These are the original raw VMF files of my workshop maps. They are free to look 
 | twp_towering_the_climb_1 | The Climb - Part 1 | [Here](https://steamcommunity.com/sharedfiles/filedetails/?id=1950795677) |
 | twp_towering_the_climb_2 | The Climb - Part 2 | [Here](https://steamcommunity.com/sharedfiles/filedetails/?id=1950797293) |
 | live_overgrown | The Menacing Pooldive | [Here](https://steamcommunity.com/sharedfiles/filedetails/?id=2003752327) |
+| twp_surface_meltdown | Surface Meltdown | [Here](https://steamcommunity.com/sharedfiles/filedetails/?id=2193642857) |
 
 Please note that you will be missing some assets and instances. The assets can be extracted from the BSP if needed. If you need one of the instances, just ask me.
 
